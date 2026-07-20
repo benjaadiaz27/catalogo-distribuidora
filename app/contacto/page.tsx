@@ -47,7 +47,7 @@ export default function ContactoPage() {
                 </h3>
 
                 <p>
-                  Colocar dirección de la distribuidora
+                  Jose Ingenieros 415, Zenón Pereyra, Santa Fe, Argentina
                 </p>
               </div>
 
